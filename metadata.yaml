@@ -1,0 +1,27 @@
+_repo: There-was-once-a-slave-b-The-heroic-story-of-Frederick-Douglass_75237
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, Shirley
+    gutenberg_agent_id: '57894'
+    url: http://www.gutenberg.org/2009/agents/57894
+description: ''
+gutenberg_issued: '2025-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75237'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015012843937
+pgterms:marc905: 20240125095019graham
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bJulian Messner, Inc., $c1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'There was once a slave ... : $b The heroic story of Frederick Douglass'
+url: http://www.gutenberg.org/ebooks/75237
